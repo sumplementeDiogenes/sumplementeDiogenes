@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sumplementeDiogenes
+- 👋 Hi, I’m @simplementeDiogenes
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning mathematic
 - 💞️ I’m looking to collaborate on maching learning
